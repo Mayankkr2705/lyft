@@ -1,8 +1,8 @@
 # Lyftr AI LLM Chatbot
 
 ## 1. Live URLs
-- Frontend: add your public frontend URL here.
-- Backend: add your public backend URL here.
+- Frontend:[https://frontend-phi-eight-10.vercel.app/](https://frontend-phi-eight-10.vercel.app/)
+- Backend: [https://lyftr-backend-kd36.onrender.com/](https://lyftr-backend-kd36.onrender.com/)
 - Repository: add your public GitHub repository URL here.
 
 ## 2. Run locally: with Docker and without
